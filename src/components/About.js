@@ -22,13 +22,13 @@ various frameworks. Strong problem-solving
 abilities with a passion for staying updated
 with the latest web development trends.
               </p>
-              <a href="https://facebook.com" className="abt-icons mx-2">
+              <a href="https://www.linkedin.com/in/madurangasandaruwan" className="abt-icons mx-2">
           <FontAwesomeIcon icon={["fab", "linkedin"]} size="lg" />
         </a>
-        <a href="https://twitter.com" className="abt-icons mx-2">
+        <a href="https://github.com/maduranga23" className="abt-icons mx-2">
           <FontAwesomeIcon icon={["fab", "github"]} size="lg" />
         </a>
-        <a href="https://instagram.com" className="abt-icons mx-2">
+        <a href="#" className="abt-icons mx-2">
           <FontAwesomeIcon icon={["fab", "whatsapp"]} size="lg" />
         </a>
               <a href="../assets/PDMSJayasinghe.pdf" class="btn-border" download>Download CV</a>

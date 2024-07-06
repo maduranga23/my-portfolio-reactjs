@@ -91,13 +91,13 @@ const NavBar = () => {
             </NavItem>
           </Nav>
         </Navbar.Collapse>
-        <a href="https://facebook.com" className="nav-icons mx-2">
+        <a href="https://www.linkedin.com/in/madurangasandaruwan" className="nav-icons mx-2">
           <FontAwesomeIcon icon={["fab", "linkedin"]} size="lg" />
         </a>
-        <a href="https://twitter.com" className="nav-icons mx-2">
+        <a href="https://github.com/maduranga23" className="nav-icons mx-2">
           <FontAwesomeIcon icon={["fab", "github"]} size="lg" />
         </a>
-        <a href="https://instagram.com" className="nav-icons mx-2 mr-2">
+        <a href="#" className="nav-icons mx-2 mr-2">
           <FontAwesomeIcon icon={["fab", "whatsapp"]} size="lg" />
         </a>
         <a
